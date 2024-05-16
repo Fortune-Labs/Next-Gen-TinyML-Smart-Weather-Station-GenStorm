@@ -1,2 +1,7 @@
 genstorm_env
 .genstorm_env
+.ipynb_checkpoints
+Dataset
+__pycache__
+.__pycache__
+
